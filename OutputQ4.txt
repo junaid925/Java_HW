@@ -1,9 +1,0 @@
-junaids-iMac:Desktop junaid$ javac MainQ4.java 
-junaids-iMac:Desktop junaid$ java MainQ4 < inputQ4.txt
-122222333654654365435436153684315431534613346131313646
-435135165436514
-443645
-643613513546461636
-156
-junaids-iMac:Desktop junaid$ 
-
