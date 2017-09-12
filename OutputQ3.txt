@@ -1,0 +1,3 @@
+Enter a string to check if it is a palindrome
+mommom
+This string is a palindrome.
