@@ -1,0 +1,4 @@
+Also, figure out why the program stopped running when we used
+Thread.sleep(), and we right clicked/marked the DOS window.
+
+
